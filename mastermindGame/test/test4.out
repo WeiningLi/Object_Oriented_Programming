@@ -1,0 +1,16 @@
+Welcome to Mastermind! Please enter your first guess:
+1b,1w
+6 guesses left. Enter guess:
+0b,1w
+5 guesses left. Enter guess:
+0b,2w
+4 guesses left. Enter guess:
+0b,1w
+3 guesses left. Enter guess:
+2b,0w
+2 guesses left. Enter guess:
+1b,0w
+1 guesses left. Enter guess:
+1b,0w
+You lost! The password was: AAECD
+Would you like to play again? (Y/N): 

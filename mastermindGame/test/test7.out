@@ -1,0 +1,22 @@
+Welcome to Mastermind! Please enter your first guess:
+2b,1w
+9 guesses left. Enter guess:
+1b,0w
+8 guesses left. Enter guess:
+0b,0w
+7 guesses left. Enter guess:
+0b,0w
+6 guesses left. Enter guess:
+1b,0w
+5 guesses left. Enter guess:
+0b,0w
+4 guesses left. Enter guess:
+0b,0w
+3 guesses left. Enter guess:
+0b,1w
+2 guesses left. Enter guess:
+1b,2w
+1 guesses left. Enter guess:
+0b,2w
+You lost! The password was: AFBB
+Would you like to play again? (Y/N): 
