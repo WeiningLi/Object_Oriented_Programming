@@ -1,0 +1,5 @@
+create a 9/10 8  -27/140 6 81/1960 4 -243/27440 2 461721/384160 0
+print a
+create b 2/3 2 1/7 0
+print b
+multiply a b

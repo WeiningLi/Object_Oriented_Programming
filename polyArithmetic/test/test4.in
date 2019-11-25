@@ -1,0 +1,24 @@
+create a 0/1 7 0/1 6 0/2 5 0/4 5 0/5 3 0/9 1 0/1 0
+print a 
+create b 0/5 10 1/10 7 0/1 6 0/2 5 0/4 5 0/5 3 0/9 1 0/1 0
+print b
+create c 0/1 0
+print c
+subtract a b
+add a b
+add a c
+add c a
+subtract a c
+subtract c a
+multiply a b
+multiply b a
+multiply a c
+multiply c a
+multiply b c
+multiply c b
+divide a b
+divide c b
+move_assign b a
+print a
+move_copy a c
+print c

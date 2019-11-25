@@ -1,0 +1,19 @@
+create a 5/45 2 2/3 2 1/7 0
+print a 
+create b 3/5 10 4/5 2 4/7 0
+print b
+create c 0/1 0
+print c
+subtract a b
+add a b
+add a c
+add c a
+subtract a c
+subtract c a
+multiply a b
+multiply a a
+multiply b b
+divide b b
+divide a b
+divide b a
+quit

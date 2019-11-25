@@ -1,0 +1,5 @@
+create a -243/192080 0
+create b 923442/1152480 0
+print a
+print b
+add a b
