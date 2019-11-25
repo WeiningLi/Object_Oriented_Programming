@@ -11,3 +11,6 @@ A 2-player game, master & breaker, breaker repeatedly guesses a code made by mas
 ### Tree String:
 
 An ADT for strings with a tree-like structure, this representation of a string can be used for very large strings need to be modiﬁed often in different places.
+
+### Polynomial Arithmetic:
+Build on the rational classes, represents and performs operations on single variable polynomials.
