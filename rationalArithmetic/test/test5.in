@@ -1,0 +1,12 @@
+te a 5/2
+print a
+create b 15/2
+print b
++ a b
+- b a
+* a b
+/ b a
++= a b
+-= a b
+u- a
+

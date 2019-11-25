@@ -1,0 +1,14 @@
+create a 10/10
+print a
+create b -30/-15
+print b
++ a b
+- b a
+* a b
+/ b a
+/ a b
+-= a b
++= a b
+-= a b
+u- a
+

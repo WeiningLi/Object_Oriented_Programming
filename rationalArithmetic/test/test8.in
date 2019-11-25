@@ -1,0 +1,12 @@
+create a 8/4
+print a
+create b 75/-15
+print b
++ a b
+- b a
+* a b
+/ b a
++= a b
+-= a b
+u- a
+

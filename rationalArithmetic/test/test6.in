@@ -1,0 +1,12 @@
+create a 3/2
+print a
+create b 2/-3
+print b
++ a b
+- b a
+* a b
+/ b a
++= a b
+-= a b
+u- a
+
