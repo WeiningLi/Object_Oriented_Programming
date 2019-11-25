@@ -1,0 +1,47 @@
+"Hello " size: 6
+ "this " size: 5
+  "is " size: 3
+   "used " size: 5
+    "to " size: 3
+     "test " size: 5
+      "^ " size: 2
+       "a" size: 1
+        "b " size: 2
+         "c" size: 1
+          "d" size: 1
+           "e" size: 1
+            "f" size: 1
+             "g" size: 1
+              "kk   " size: 5
+Hello this is used to test ^ ab cdefgkk   
+Hello this is used to test ^ a? cdefgkk   Hello this is used to test ^ ab cdefgkk   
+"kk   " size: 42
+ "Hello " size: 6
+  "this " size: 5
+   "is " size: 3
+    "used " size: 5
+     "to " size: 3
+      "test " size: 5
+       "^ " size: 2
+        "a" size: 1
+         "? " size: 2
+          "c" size: 1
+           "d" size: 1
+            "e" size: 1
+             "f" size: 1
+              "g" size: 1
+ "Hello " size: 6
+  "this " size: 5
+   "is " size: 3
+    "used " size: 5
+     "to " size: 3
+      "test " size: 5
+       "^ " size: 2
+        "a" size: 1
+         "b " size: 2
+          "c" size: 1
+           "d" size: 1
+            "e" size: 1
+             "f" size: 1
+              "g" size: 1
+               "kk   " size: 5
