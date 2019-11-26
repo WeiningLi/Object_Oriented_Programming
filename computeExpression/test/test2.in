@@ -1,0 +1,16 @@
+x y + z - 6 * 2 / NEG 5 x + y * + ABS done
+copy
+set y 1
+eval
+set x 12
+eval
+copy
+print
+eval
+unset x
+copy
+print
+eval
+unset y
+copy
+
