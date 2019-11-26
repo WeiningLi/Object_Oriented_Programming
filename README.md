@@ -14,3 +14,6 @@ An ADT for strings with a tree-like structure, this representation of a string c
 
 ### Polynomial Arithmetic:
 Build on the rational classes, represents and performs operations on single variable polynomials.
+
+### Compute Expression:
+read the string representation of expressions, then evaluate arithmetic expressions contains simple unary and binary operations, variables.  It also has pretty print and deep copy functions for expressions.
